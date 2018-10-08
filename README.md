@@ -68,7 +68,11 @@ The project requires java 8. If this is not yet available on your computer run t
 ## Installing tomcat
 
 Follow the instruction [here](https://www.liquidweb.com/kb/install-apache-tomcat-8-ubuntu-16-04/) to install tomcat. This we where not able to do. When we tried to set the environment variables in bashrc we got the following error: 
-
+      
+      /home/../.bashrc:16: command not found: shopt
+    /home/../.bashrc:24: command not found: shopt
+    /home/../.bashrc:111: command not found: shopt
+    \[\e]0;\u@\h: \w\a\]\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]$ 
 
 ## Clone and run the project locally 
 
