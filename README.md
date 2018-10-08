@@ -67,7 +67,8 @@ The project requires java 8. If this is not yet available on your computer run t
 
 ## Installing tomcat
 
-Follow the instruction [here](https://www.liquidweb.com/kb/install-apache-tomcat-8-ubuntu-16-04/) to install tomcat.
+Follow the instruction [here](https://www.liquidweb.com/kb/install-apache-tomcat-8-ubuntu-16-04/) to install tomcat. This we where not able to do. When we tried to set the environment variables in bashrc we got the following error: 
+
 
 ## Clone and run the project locally 
 
