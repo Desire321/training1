@@ -98,7 +98,7 @@ Follow the instruction [here](https://www.liquidweb.com/kb/install-apache-tomcat
 
 Copy the war file generated and stored in the target directory in the tomcat release directory and run tomcat
 
-Remark: we were not ablr to set tomcat locally and therefore did not deploy to it.
+**Remark**: we were not able to set tomcat locally and therefore did not deploy to it.
 
 
 
